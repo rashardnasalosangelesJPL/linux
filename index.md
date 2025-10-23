@@ -29,10 +29,38 @@ OBJECT                            = MISSION
    OBJECT                          = MISSION_INFORMATION
     MISSION_START_DATE            = 2011-08-05
     MISSION_STOP_DATE             = NULL [CATFiLE @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @podaac](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
-    
-### Ubuntu Summit 2024 | Day One
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02SZ63Yb5FTH5YnEeY8oKu2nQw8oDFnAStJKkrytUHxVDiTa7vrdrio7XsTGviXeUPl%26id%3D100084464911565&show_text=true&width=500" width="500" height="674" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xR3uShR4U6dsqJCAGkcCGDuyLPLYQ36EbD1cUqwHZMrmu3xNLcbmZRMjc7WPgWyml%26id%3D100084464911565&show_text=true&width=500" width="500" height="469" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fiU3PDvxMFJoToZVf5wYQLvdkM8BdXiZZA8HFFpCHmzxFvi8v3tQGbqTx5eMDjgil%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+### Ubuntu Summit 2024 | Day One @nasa-jpl @nasa
 @blackgirlscode @emit-sds @USnavy @nasa-pds
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LPCg0NcQICQ?si=MQ6C_Ypoy9Inji_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0tDBj7MzUrLiPKsC83ZbqLMyNcG4GsVkMfYQmfTEkgLKDvdhQY1kugS2JR9LxA2Prl%26id%3D100084464911565&show_text=true&width=500" width="500" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02RwhmWvYGfW23yCxfduukCWxYWUQKVYuYgvWaZLfsSU2fD8P8JCJh6GEAY3HbZF5Rl%26id%3D100084464911565&show_text=true&width=500" width="500" height="562" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0rjg4Ng2wwTus1gP4Lk5sw4qEKQstsBw7aTecNcGusiSAk5VP1kCFziSR84kADH1Nl%26id%3D100084464911565&show_text=true&width=500" width="500" height="423" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02oynj3WZdXzRAPn3PSvZmDEhWA5Bg1MgPkf1gTdH2poTXLw9wYuRs8F9MKBtqnYyYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="648" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+@nasa-jpl 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0mFsYyg7gYTsLum2WCHsf8wyRKHSHawYZeonU2ydmDvFSGamarmcUUcAqWp5zT1pCl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+@amazon 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0Yxwz2fCv9VmhMM2cQsjTUxqckJKw5NoMC2s3HJi9tiT6DqXZoDttRF7i56ZU9wqJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0eSCo5QiD4TULVRmZA6Ut3by8nMsUGbSshB6S5pd5mS3oK5SVN2Jjzug19Dt5aQVql%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LPCg0NcQICQ?si=MQ6C_Ypoy9Inji_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
