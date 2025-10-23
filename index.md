@@ -30,9 +30,13 @@ OBJECT                            = MISSION
     MISSION_START_DATE            = 2011-08-05
     MISSION_STOP_DATE             = NULL [CATFiLE @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @podaac](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
     
-### 
-@podaac @nasa-jpl @nasa-pds 
-something is toxix about the [@meta FACEBOOK accounts mentionedhere](https://www.facebook.com/TSGStrong/posts/pfbid0sfonZuvuZkvJUu9jyA4VMzM4p5TFzNX8XKvXJAhau7d9zuz9jmqN65Nzioy4NZv1l)
+### Ubuntu Summit 2024 | Day One
+@blackgirlscode @emit-sds @USnavy @nasa-pds
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LPCg0NcQICQ?si=MQ6C_Ypoy9Inji_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LPCg0NcQICQ?si=MQ6C_Ypoy9Inji_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@podaac @nasa-jpl @nasa-pds , something is toxix about the [@meta FACEBOOK accounts mentionedhere](https://www.facebook.com/TSGStrong/posts/pfbid0sfonZuvuZkvJUu9jyA4VMzM4p5TFzNX8XKvXJAhau7d9zuz9jmqN65Nzioy4NZv1l)
 [Link](https://www.facebook.com/TSGStrong/posts/pfbid0sfonZuvuZkvJUu9jyA4VMzM4p5TFzNX8XKvXJAhau7d9zuz9jmqN65Nzioy4NZv1l)
 
 ```
