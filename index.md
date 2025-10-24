@@ -61,6 +61,15 @@ i like baseball[,](https://apps.apple.com/us/app/2020-super-baseball-aca-neogeo/
 
 ![sega sb2020](https://cdn.wikimg.net/en/strategywiki/images/3/3e/Super_Baseball_2020_US_Genesis_box.jpg)
 
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="YPzJvaJ" data-pen-title="WebSafeFontSampler @normani" data-user="ricoThaka" style="height: 350px width: 100%; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+      <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/YPzJvaJ">
+  WebSafeFontSampler @normani</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+      </p>
+      <script async src="https://public.codepenassets.com/embed/index.js"></script>
+	  
 [Neil deGrasse Tyson answers life's biggest space questions and talks about his new book](https://youtu.be/H1rKHBLPZdk?si=q-Qb_Cktlno46dPR)
 
 # Ubuntu Summit 25.10 | Day Two
