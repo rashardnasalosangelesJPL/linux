@@ -35,6 +35,40 @@ OBJECT                            = MISSION
 
 [Neil deGrasse Tyson answers life's biggest space questions and talks about his new book](https://youtu.be/H1rKHBLPZdk?si=q-Qb_Cktlno46dPR)
 
+
+NASA Appropriations and Authorizations: At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [Link](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf) @cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
+
+
+[pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2abd597a-8565-40cc-894f-dc6aa0a15909" />
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3t42bkpxs2f" data-bluesky-cid="bafyreih2mx56xyvyim263hdow3ninkukdehyhaeuhxel7cv75zfnuzlemq" data-bluesky-embed-color-mode="system"><p lang="en">www.uahirise.org/hiview/ #Mars @crockett.house.gov @mayor.lacity.gov @mayorofchicago.bsky.social -#rashard www.congress.gov/crs-product/... &amp;&amp; @president.ie @emmacurtis.bsky.social @ravenscimaven.bsky.social pds.mcp.nasa.gov/portal/ #NASA #ASTRONOMY #normani<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3t42bkpxs2f?ref_src=embed">[image or embed]</a></p>&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3t42bkpxs2f?ref_src=embed">October 22, 2025 at 5:28 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+[https://id.nasa.gov](https://id.nasa.gov)
+[https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map](https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map)
+# AnimalFarm 1954
+
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
+
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+
 # FairPhone
 [identifying myself for HildaSolis](https://x.com/BubbleGumPop626/status/1743427992653881448) [@spacex application @nasa-jpl](https://x.com/BubbleGumPop626/status/1743428678095352226)
 [iDentifying myself on Twitter / x for @cityoflosangeles @whitehouse @nasa RepMaxineWaters](https://x.com/RicoThaka/status/1905673319346848128) [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
