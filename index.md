@@ -33,12 +33,22 @@ OBJECT                            = MISSION
 
 [Data Management Guidance for ESD-Funded Researchers](https://www.earthdata.nasa.gov/engage/data-management-guidance)
 
+![NEOGEO @libretro](https://ia801202.us.archive.org/34/items/2020-super-baseball-ccm/2020%20Super%20Baseball%20-%20Cartridge%20-%20Top.jpg) 
+i like baseball, but im not trying to play till my ankle heals... still love the braves
+![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
+
 # California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode @nasa-PDS @emit-sds
 [Link](https://archive.org/details/commitmentmaintenance) 
 ## @canonical @canonicalltd @splunk
 @nasa-jpl @emit-sds @nasa @nasa-pds @blackgirlscode
 I address my conflict at [iOnic_Security](https://archive.org/download/commitmentmaintenance/00000_canonical_unconference_normaniPromise_blackgiscode_kashdoll_VID_20251024_093610_625.mp4) 
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![playBall](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-sdrk.png)
+
+Normani maybe dwayne was an undercover The Secretary of the Navy Bill Nelson The Office of the Chief of Naval Operations NASA Science Congressmember Karen Bass Normani i thought he was in a sexual relationship with our manager bc he said ethiopian girls are hard to get, an asked if i was into blackplanet for fuckkin bitchiz Nicki Minaj and after muna died he said people are always dying around you Canonical Red Hat Summit they were running #jenkins on #Ubuntu_14_04 and it was end of life so if its not being supported its not ubuntu if used in that context of a security company for outgoing communication Goldstone Deep Space Communications Complex thats y i threw  a tantrum ABC7 Morning Show Mori & Associates NASA Astronaut Jonny Kim Congressmember Karen Bass the operating system maintenace was dangerous for any admins reputation, #Dwayne is Black from #D_C and was competative with me , boppin in the office listening to 2 Chainz im a child and the neighborhood dance academy says we should dance to everyone in the community, thats some #PineSolCamelKoolPimPRap! Lindsey Horvath Laurie Leshin ExploreAstro at Caltech/IPAC NASA's Perseverance Mars Rover i listened an i like new beats but he was looking for a strip club partner Jada Pinkett Smith is will in the military ? National Museum of the Marine Corps
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0dQFMMP13Dxv6UudfnHjP2q8XyP7Q9RTNNuf7Cmh85xfC8CUbSTVJ96ikTQvV2aTel%26id%3D100084464911565&show_text=true&width=500" width="500" height="723" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ![@blackgirlscode `learn_logging`](https://dev.splunk.com/developer-program/assets/images/dark/Logo.svg)
 [https://dev.splunk.com OR dev.splunk.com](https://dev.splunk.com/)
