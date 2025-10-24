@@ -41,6 +41,7 @@ I address my conflict at [iOnic_Security](https://archive.org/download/commitmen
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![@blackgirlscode `learn_logging`](https://dev.splunk.com/developer-program/assets/images/dark/Logo.svg)
+[https://dev.splunk.com OR dev.splunk.com](https://dev.splunk.com/)
 ![@splunk @nasa-jpl](https://dev.splunk.com/developer-program/assets/images/dark/WelcomeLogo.svg) 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fRYHvHE68aSdVT13e7WK2HG8nNxESURYhJmft4o8xnHpyE3Ko33dyWwpioq8R8rYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="965" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
