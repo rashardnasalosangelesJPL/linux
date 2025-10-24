@@ -33,6 +33,19 @@ OBJECT                            = MISSION
 
 [Data Management Guidance for ESD-Funded Researchers](https://www.earthdata.nasa.gov/engage/data-management-guidance)
 
+# California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode @nasa-PDS @emit-sds
+[Link](https://archive.org/details/commitmentmaintenance) 
+## @canonical @canonicalltd @splunk
+@nasa-jpl @emit-sds @nasa @nasa-pds @blackgirlscode
+I address my conflict at [iOnic_Security](https://archive.org/download/commitmentmaintenance/00000_canonical_unconference_normaniPromise_blackgiscode_kashdoll_VID_20251024_093610_625.mp4) 
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+![@splunk @nasa-jpl](https://dev.splunk.com/developer-program/assets/images/dark/WelcomeLogo.svg) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fRYHvHE68aSdVT13e7WK2HG8nNxESURYhJmft4o8xnHpyE3Ko33dyWwpioq8R8rYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="965" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 [Neil deGrasse Tyson answers life's biggest space questions and talks about his new book](https://youtu.be/H1rKHBLPZdk?si=q-Qb_Cktlno46dPR)
 
 # Ubuntu Summit 25.10 | Day Two
