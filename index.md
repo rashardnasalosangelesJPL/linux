@@ -33,8 +33,6 @@ OBJECT                            = MISSION
 
 [Data Management Guidance for ESD-Funded Researchers](https://www.earthdata.nasa.gov/engage/data-management-guidance)
 
-![NEOGEO @libretro](https://ia801202.us.archive.org/34/items/2020-super-baseball-ccm/2020%20Super%20Baseball%20-%20Cartridge%20-%20Top.jpg) 
-i like baseball[,](https://apps.apple.com/us/app/2020-super-baseball-aca-neogeo/id1631488139) but im not trying to play till my ankle heals.[.](https://www.nintendo.com/us/store/products/aca-neogeo-2020-super-baseball-switch/?srsltid=AfmBOoppxU0UljdQkK5VNW12ZEftsYfrhpC93NsIpVVHDGwGjwMjXNww). still [love the braves](https://www.neogeofun.com/2020bb-2)
 ![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
 
 # California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode @nasa-PDS @emit-sds
@@ -56,6 +54,12 @@ Normani maybe dwayne was an undercover The Secretary of the Navy Bill Nelson The
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0fRYHvHE68aSdVT13e7WK2HG8nNxESURYhJmft4o8xnHpyE3Ko33dyWwpioq8R8rYl%26id%3D100084464911565&show_text=true&width=500" width="500" height="965" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+![NEOGEO @libretro](https://ia801202.us.archive.org/34/items/2020-super-baseball-ccm/2020%20Super%20Baseball%20-%20Cartridge%20-%20Top.jpg) 
+[2020 Super Baseball (set 3)](https://www.retrogames.cc/arcade-games/2020-super-baseball-set-3.html) / [snes](https://nintendo.fandom.com/wiki/Super_Baseball_2020) : [wiki](https://strategywiki.org/wiki/File:Super_Baseball_2020_US_Genesis_box.jpg) [*](https://wiki.neogeodev.org/index.php?title=2020_Super_Baseball) : [pedia](https://en.wikipedia.org/wiki/Super_Baseball_2020)
+i like baseball[,](https://apps.apple.com/us/app/2020-super-baseball-aca-neogeo/id1631488139) but im not trying to play till my ankle heals.[.](https://www.nintendo.com/us/store/products/aca-neogeo-2020-super-baseball-switch/?srsltid=AfmBOoppxU0UljdQkK5VNW12ZEftsYfrhpC93NsIpVVHDGwGjwMjXNww). still [love the braves](https://www.neogeofun.com/2020bb-2)
+
+![sega sb2020](https://cdn.wikimg.net/en/strategywiki/images/3/3e/Super_Baseball_2020_US_Genesis_box.jpg)
 
 [Neil deGrasse Tyson answers life's biggest space questions and talks about his new book](https://youtu.be/H1rKHBLPZdk?si=q-Qb_Cktlno46dPR)
 
