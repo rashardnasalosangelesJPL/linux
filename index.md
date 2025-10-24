@@ -31,6 +31,8 @@ OBJECT                            = MISSION
     MISSION_STOP_DATE             = NULL [CATFiLE @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @podaac](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
 
 
+[Neil deGrasse Tyson answers life's biggest space questions and talks about his new book](https://youtu.be/H1rKHBLPZdk?si=q-Qb_Cktlno46dPR)
+
 [F-Prime](https://github.com/nasa/fprime) - [docs](https://fprime.jpl.nasa.gov/latest/docs/tutorials/)
 
 ![Fprim3](https://fprime.jpl.nasa.gov/assets/images/overview/component-library-light.png)
