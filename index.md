@@ -31,7 +31,59 @@ OBJECT                            = MISSION
     MISSION_STOP_DATE             = NULL [CATFiLE @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @podaac](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
 
 
+[Data Management Guidance for ESD-Funded Researchers](https://www.earthdata.nasa.gov/engage/data-management-guidance)
+
 [Neil deGrasse Tyson answers life's biggest space questions and talks about his new book](https://youtu.be/H1rKHBLPZdk?si=q-Qb_Cktlno46dPR)
+
+# FairPhone
+[identifying myself for HildaSolis](https://x.com/BubbleGumPop626/status/1743427992653881448) [@spacex application @nasa-jpl](https://x.com/BubbleGumPop626/status/1743428678095352226)
+[iDentifying myself on Twitter / x for @cityoflosangeles @whitehouse @nasa RepMaxineWaters](https://x.com/RicoThaka/status/1905673319346848128) [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
+
+
+
+[Architecture overview](https://source.android.com/docs/core/architecture#architecture)
+The Android Open Source Project (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP for their device. AOSP provides a complete and fully functional implementation of the Android mobile platform.
+![Architecture](https://source.android.com/static/images/android-stack.svg)
+![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
+[![Modularity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)
+[![FairPhone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)
+
+### [The Fairphone 2 is reborn… as a circular microcomputer](https://www.fairphone.com/en/2024/11/28/the-fairphone-2-is-reborn-as-a-circular-microcomputer/)
+
+![BAKERSFiELD](https://eoimages.gsfc.nasa.gov/images/imagerecords/80000/80595/wasco_ast_2011191_lrg.jpg)
+
+### Fairphone 3 Modularity
+
+
+[![FairPhone](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)
+
+
+![parts](https://www.fairphone.com/wp-content/uploads/2024/01/iFixit-Guest-Blog-Fairphone-Changing-Tech-Industry-Header-1-1680x565.webp)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1165255246&color=%23fceb80&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jan-blaffert-820633736" title="Fairphone" target="_blank" style="color: #cccccc; text-decoration: none;">Fairphone</a> · <a href="https://soundcloud.com/jan-blaffert-820633736/pioneering-the-path-to-circularity" title="Fairtalks #8: Pioneering the path to circularity" target="_blank" style="color: #cccccc; text-decoration: none;">Fairtalks #8: Pioneering the path to circularity</a></div>
+
+### [Fairphone - FLiCKr](https://www.flickr.com/photos/fairphone/)
+![pcb boards](https://live.staticflickr.com/3783/12830884415_eaa8817cd4_h.jpg)
+
+![Write fo windows 2_!](https://pbs.twimg.com/media/Gie8QTPbYAQf4LX?format=png&name=medium)
+[RelatedTweet](https://x.com/BubbleGumPop510/status/1884682125473177888)
+[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw) [YAML_Twt @blackgirlscode](https://x.com/RicoThaka/status/1895914057162768886) [c7](https://x.com/BubbleGumPop510/status/1870627229744631839)
+
+[Liquid reference](https://shopify.dev/docs/api/liquid) Liquid is a template language created by Shopify. It's available as [an open source project on GitHub](https://github.com/ThakaRashard/liquid), and is used by many different software projects and [companies](https://www.nasa.gov/international-space-station/).
+[Comments in GitHub flavour of Markdown](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9)
+>[TryingThis](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152)
+[//]: # (This is a comment.)
+[//]: # (This is a comment on a new line.)
+![image](https://github.com/user-attachments/assets/6433a024-6b1e-4c09-a48a-659f125729c9)
+[Creating and highlighting code blocks - MARKDOWN @github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) [HiGHTLiGHTiNG](https://www.markdownguide.org/extended-syntax/#highlight) ![SHOPiFY](https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/shopify-wordmark-monochrome-CpVsfBAAmxEP.svg)
+I need to highlight these ==very important words==.
+```
+I need to highlight these ==very important words==.
+```
+[https://admin.shopify.com/store/holetoanotheruniverse](https://admin.shopify.com/store/holetoanotheruniverse) 
+
+
+[ASTRALWERKS CASSETTE SAMPLER SUMMER 1994](https://youtu.be/kypmFar9CRE?t=1248)
+
 
 [F-Prime](https://github.com/nasa/fprime) - [docs](https://fprime.jpl.nasa.gov/latest/docs/tutorials/)
 
@@ -1209,37 +1261,7 @@ block-size: fit-content;
 ```
 
 [max-width](https://developer.mozilla.org/en-US/docs/Web/CSS/max-width) The max-width CSS property sets the maximum width of an element. - @mozilla 
-# FairPhone
-[identifying myself for HildaSolis](https://x.com/BubbleGumPop626/status/1743427992653881448) [@spacex application @nasa-jpl](https://x.com/BubbleGumPop626/status/1743428678095352226)
-[iDentifying myself on Twitter / x for @cityoflosangeles @whitehouse @nasa RepMaxineWaters](https://x.com/RicoThaka/status/1905673319346848128) [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
 
-
-
-[Architecture overview](https://source.android.com/docs/core/architecture#architecture)
-The Android Open Source Project (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP for their device. AOSP provides a complete and fully functional implementation of the Android mobile platform.
-![Architecture](https://source.android.com/static/images/android-stack.svg)
-![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
-[![Modularity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)
-[![FairPhone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)
-
-### [The Fairphone 2 is reborn… as a circular microcomputer](https://www.fairphone.com/en/2024/11/28/the-fairphone-2-is-reborn-as-a-circular-microcomputer/)
-
-
-### Fairphone 3 Modularity
-
-
-[![FairPhone](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)
-
-
-![parts](https://www.fairphone.com/wp-content/uploads/2024/01/iFixit-Guest-Blog-Fairphone-Changing-Tech-Industry-Header-1-1680x565.webp)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1165255246&color=%23fceb80&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jan-blaffert-820633736" title="Fairphone" target="_blank" style="color: #cccccc; text-decoration: none;">Fairphone</a> · <a href="https://soundcloud.com/jan-blaffert-820633736/pioneering-the-path-to-circularity" title="Fairtalks #8: Pioneering the path to circularity" target="_blank" style="color: #cccccc; text-decoration: none;">Fairtalks #8: Pioneering the path to circularity</a></div>
-
-### [Fairphone - FLiCKr](https://www.flickr.com/photos/fairphone/)
-![pcb boards](https://live.staticflickr.com/3783/12830884415_eaa8817cd4_h.jpg)
-
-![Write fo windows 2_!](https://pbs.twimg.com/media/Gie8QTPbYAQf4LX?format=png&name=medium)
-[RelatedTweet](https://x.com/BubbleGumPop510/status/1884682125473177888)
-[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw) [YAML_Twt @blackgirlscode](https://x.com/RicoThaka/status/1895914057162768886) [c7](https://x.com/BubbleGumPop510/status/1870627229744631839)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/linked" title="Linked" target="_blank" style="color: #cccccc; text-decoration: none;">Linked</a></div>
 
