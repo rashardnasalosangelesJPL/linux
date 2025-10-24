@@ -34,7 +34,7 @@ OBJECT                            = MISSION
 [Data Management Guidance for ESD-Funded Researchers](https://www.earthdata.nasa.gov/engage/data-management-guidance)
 
 ![NEOGEO @libretro](https://ia801202.us.archive.org/34/items/2020-super-baseball-ccm/2020%20Super%20Baseball%20-%20Cartridge%20-%20Top.jpg) 
-i like baseball, but im not trying to play till my ankle heals... still love the braves
+i like baseball[,](https://apps.apple.com/us/app/2020-super-baseball-aca-neogeo/id1631488139) but im not trying to play till my ankle heals.[.](https://www.nintendo.com/us/store/products/aca-neogeo-2020-super-baseball-switch/?srsltid=AfmBOoppxU0UljdQkK5VNW12ZEftsYfrhpC93NsIpVVHDGwGjwMjXNww). still [love the braves](https://www.neogeofun.com/2020bb-2)
 ![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
 
 # California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode @nasa-PDS @emit-sds
