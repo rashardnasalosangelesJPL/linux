@@ -35,7 +35,8 @@ OBJECT                            = MISSION
 
 ![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
 
-# California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode @nasa-PDS @emit-sds
+# California_Linux: 
+Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode @nasa-PDS @emit-sds
 [Link](https://archive.org/details/commitmentmaintenance) 
 ## @canonical @canonicalltd @splunk
 @nasa-jpl @emit-sds @nasa @nasa-pds @blackgirlscode
