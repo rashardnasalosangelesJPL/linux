@@ -35,7 +35,7 @@ OBJECT                            = MISSION
 
 [Neil deGrasse Tyson answers life's biggest space questions and talks about his new book](https://youtu.be/H1rKHBLPZdk?si=q-Qb_Cktlno46dPR)
 
-
+# Ubuntu Summit 25.10 | Day Two
 NASA Appropriations and Authorizations: At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [Link](https://www.congress.gov/crs-product/R43419)
 [@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf) @cityoflosangeles 
 [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog)
