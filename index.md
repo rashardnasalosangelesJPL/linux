@@ -20,6 +20,72 @@ Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jp
    
  </div> 
 
+# Currently Compiling 
+`jekyll.version`  {{ jekyll.version }}
+
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) [@blackgirlscode](https://www.facebook.com/BlackGirlsCodeOrg/) [@normani](https://www.tiktok.com/@normani?lang=en) [@commercegov](https://www.usa.gov/agencies/u-s-department-of-commerce)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:AbU91On7Ll5V-GrorJ9LZA/69186429602/v2" data-did="fc7c20fab03a0dd2c5f6f630bf705e05b9ecc018"  ><a href="https://www.tumblr.com/podaac/69186429602/our-ocean-circulation-at-work-as-shown-by">https://www.tumblr.com/podaac/69186429602/our-ocean-circulation-at-work-as-shown-by</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
+
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+
+<object data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" type="application/pdf" width="650" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf">download the PDF file.</a></p></object>
+
+<object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
+</object>
+
+
+
+## [Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) 
+(MEPAG) [November 2025](https://archive.org/download/commitmentmaintenance/48584%20NASA%20Viking.mp4) Meeting
+Virtual - [November 12, 2025](https://www.lpi.usra.edu/mepag/meetings/mepagnov2025/)
+[@nasa-pds](https://github.com/nasa-pds) @[nasa-jpl](https://github.com/nasa-jpl) 
+Name
+Mr. Rashard Iman "Rashard" Kelly
+Company NASA: Jet Propulsion Laboratory LaCounty
+Country United States
+Telephone (818) 354-4321
+Email holetoanotheruniverse40@gmail.com
+ADA Special Needs ucla put some thing in my ankle that feels like a magnet... i gotta study more idk the probability of doom...
+Civil Servant non-NASA U.S. Govt. employee
+Registration Type Professional Virtual Registration
+Amount b$0.00 Your badge will appear as:
+
+```
+Rashard
+Kelly
+
+NASA: Jet Propulsion Laboratory LaCounty [@nasa-jpl](https://archive.org/download/commitmentmaintenance/48584%20NASA%20Viking.mp4)
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4d01be0f-799b-44c8-9e0c-5074f1108373" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e56c604c-11a6-4635-aff0-be773fb2ce9c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
+
+# CellularTestamonials
+[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c) [Hollywood](https://ia800105.us.archive.org/32/items/vid-20241231-094914/VID_20241231_094914.ia.mp4)
+[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive) _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
+[Lost Boyz - Lifestyles Of The Rich And Shameless](https://youtu.be/0D-f01H6Kos?list=RDgvMCA9jHFZ0) [Why is Virtualization Useful? - virtualbox.org](https://www.virtualbox.org/manual/ch01.html#virt-why-useful)
+ [#Typography](https://mksd.jp/mksd_font_list.html) [Android Swap Space ?](https://docs.libretro.com/) 
+[Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
+Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space. In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+
+
 {{ site.url }}
 {{ site.baseurl }}
 
